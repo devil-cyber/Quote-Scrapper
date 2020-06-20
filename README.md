@@ -19,11 +19,13 @@ Regardless of which package management tool you’re using, we recommend running
 ## conda
 ## Install Streamlit
 ### $ pip install streamlit
-<code>
- import streamlit as st<br>
- import numpy as np<br>
-import pandas as pd<br>
-</code>
-##### Run your app. A new tab will open in your default browser. It’ll be blank for now. That’s OK.
+<div>
+ <p>import streamlit as st</p>
+ <p>import numpy as np</p>
+ <p>import pandas as pd</p>
+</div>
+<br>
 
-##### $ streamlit run first_app.py
+# Run your app. A new tab will open in your default browser. It’ll be blank for now. That’s OK.
+
+# $ streamlit run first_app.py
